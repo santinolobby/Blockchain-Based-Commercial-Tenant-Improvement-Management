@@ -7,3 +7,5 @@ U
 %tests/contractor-verification.test.ts,7/6/7616f848745012e2576985d4a1ac3c6aece4b76d
 T
 $contracts/improvement-allowance.clar,2/4/24b7df8575731ff54b4e38ff846bfbbbf96ebd29
+S
+#tests/improvement-allowance.test.ts,0/9/0998fa02427d069cda0c5c328f202027ad6fbf1d

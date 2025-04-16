@@ -1,0 +1,34 @@
+[project]
+name = 'Blockchain-Based-Commercial-Tenant-Improvement-Management'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.contractor-verification]
+path = 'contracts/contractor-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.improvement-allowance]
+path = 'contracts/improvement-allowance.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.project-scope]
+path = 'contracts/project-scope.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.property-verification]
+path = 'contracts/property-verification.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false

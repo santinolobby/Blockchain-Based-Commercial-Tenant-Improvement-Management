@@ -9,3 +9,7 @@ T
 $contracts/improvement-allowance.clar,2/4/24b7df8575731ff54b4e38ff846bfbbbf96ebd29
 S
 #tests/improvement-allowance.test.ts,0/9/0998fa02427d069cda0c5c328f202027ad6fbf1d
+L
+contracts/project-scope.clar,b/c/bc602d073b58734a45815f993c33b4c50242696b
+K
+tests/project-scope.test.ts,2/3/23b6f8e1b9b4a81010dca9e19e7c947812c7cf60

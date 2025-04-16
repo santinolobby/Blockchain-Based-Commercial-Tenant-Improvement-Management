@@ -13,3 +13,7 @@ L
 contracts/project-scope.clar,b/c/bc602d073b58734a45815f993c33b4c50242696b
 K
 tests/project-scope.test.ts,2/3/23b6f8e1b9b4a81010dca9e19e7c947812c7cf60
+T
+$contracts/property-verification.clar,9/2/92aedc8494904be11f2c1570671ab7c7affd1770
+S
+#tests/property-verification.test.ts,2/4/24ed03513bc4144786f1838c91c7ee0e72c40d8a
